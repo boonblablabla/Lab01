@@ -1,1 +1,3 @@
 Changes made to z.txt in main directory
+Changes made to z.txt in clone directory
+
